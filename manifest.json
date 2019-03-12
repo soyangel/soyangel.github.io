@@ -1,0 +1,5 @@
+{
+  "name": "My weblet",
+  "icon": "puppy.png",
+  "data": "data.zip"
+}
