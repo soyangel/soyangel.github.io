@@ -2,5 +2,6 @@
   "name": "My first Weblet",
   "url": "https://soyangel.github.io/manifest.json",
   "icon": "https://soyangel.github.io/puppy.png",
-  "data": "https://soyangel.github.io/data.zip"
+  "data": "https://soyangel.github.io/data.zip",
+  "hash": "5b1d3becb4ec9307b6b2045cecf2f426626f9474650ba57ba124f6b8ede8eb36"
 }
