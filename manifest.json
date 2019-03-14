@@ -1,5 +1,6 @@
 {
-  "name": "My weblet",
-  "icon": "puppy.png",
-  "data": "data.zip"
+  "name": "My first Weblet",
+  "url": "https://soyangel.github.io/manifest.json",
+  "icon": "https://soyangel.github.io/puppy.png",
+  "data": "https://soyangel.github.io/data.zip"
 }
